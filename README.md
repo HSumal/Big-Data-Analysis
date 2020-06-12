@@ -1,4 +1,4 @@
-NOTABLE QUESTIONS / RESUME RELATED:
+NOTABLE PROBLEMS AND ANALYSIS:
 
 ## HW1:
   - Q2 - Understanding of fundamental statistical and big-data related concepts (Convergence in Probability and Convergence in Distribution)
@@ -16,3 +16,8 @@ NOTABLE QUESTIONS / RESUME RELATED:
   - Q6 - Data Analysis and Machine Learning on pictures, detecting and predicting whether they contain a standing-upright human.
   - Q7 - Big Data Analysis on Amazon Product Reviews, seeing which words attribute to being most associated with good reviews and bad reviews
   - Q8 - Logistic Regression to analyze the most important parameters related to Heart Disease, specifically CHD; a disease that targets blood vessels that supply to the heart.
+  
+## HW3:
+  - Q3 - K-Means Wikipedia Documents Clustering. Analyzed quantile usage of words in the Wikipedia dataset. This dataset mainly consisted of people and their biographies.
+  - Q2, Question 4 (K-Means Clustering) - Nationwide GDP Growth Correlation. Cleaned the global GDP data-set and performed lasso regression and various data visualization techniques to understand correlation in GDP growth nationwide. Produced a nodewise graph plot that showed countries who had a Lasso non-zero coefficient correlation between countries A AND B. (Note that we used the AND rule, and as such both A had to have a coefficient associated with B and vice-versa.)
+  - Q5 - Modified the proffessors given code to predict the winner of AlphaGO vs. Lee Sedol matches using the data from games 2 and 4.
